@@ -1,0 +1,13 @@
+*.tmp
+*.log
+/div
+*.temp
+
+.ds_store
+thumbs.db
+./vscode
+./node_modules
+.emv
+.emv.local
+*.pem
+chefe_mala.txt
